@@ -1,0 +1,40 @@
+VS Code içinde HTML5 için faydalı eklentiler;
+
+1-Emmet:Emmet özelliği kısacası gündelik hayatımıda mesaj uygulamalarında mesela bazı kelimeleri kısaltarak yazarız ve otomatik olarak ilgili uygulama mesajları doldurmaktadır aslında Emmet yapısına buna benzer çalışmaktadır, özellikle Web Tasarımlarımızda kodlamamızı yaparken işlemlerimizi hızlandıran bir yapı olarak düşünebiliriz.
+Özellikle Web Tasarım (Front End Developer) alanında uğraşan geliştiricilerin kod yazım açısından işlerini hızlandırabilecek kısaltmalar olarak düşünebiliriz.
+Normal kullanmış olduğumuz tüm HTML yapılarında tek tek veya iç içe kod bloglarını yazarak hazırlamaktayız fakat Emmet özellikleri ile bunların çok kısa kod ile yapıp işlemlerimizi hızlandırabiliyoruz.
+
+
+2-Auto Rename Tag:Bir HTML sayfasında açılış etiketini değiştirdiğinizde o etiketin kapanış etiketi de değiştirdiğiniz etiketle değiştirilir.
+ Div etiketini h2 ile değiştirdiğinizde kapanış etiketi div otomatik olarak h2 ile değiştirilir. Bu, zamandan tasarruf sağlar.
+
+
+3-Live Server:Bir web geliştiricisiyseniz, kod düzenleyiciniz ile web tarayıcınız arasında sürekli geçiş yapma olasılığınız yüksektir. Bu, özellikle kodunuzda her değişiklik yaptığınızda tarayıcınızı yenilemeniz gerekiyorsa, zaman alıcı bir süreç olabilir.
+Front-end geliştiricilerin olmazsa olmazı Live Server eklentisi, yazdığınız HTML kodunun tarayıcıda anında görüntülenmesini sağlayan bir eklentidir. Sizi tarayıcıya geçme ve yazdığınız her kodu yenileme zahmetinden kurtarır.
+
+
+4-Open İn Browser:Üzerinde çalıştığınız dosyayı varsayılan tarayıcınızda veya tercih ederseniz Firefox veya Edge gibi seçtiğiniz diğer tarayıcılarda açmanıza olanak tanıyan bir eklentidir.
+ Eklentiyi kullanmak için dosyaya sağ tıklayın ve Varsayılan Tarayıcıda Aç (Alt + B) veya Diğer Tarayıcılarda Aç (Shift + Alt + B) seçeneğini seçin.
+
+
+5- Font Awesome Codes for HTML:Font Awesome Codes for HTML, sizin için HTML içerisine Font Awesome CSS’i tanımlamayı zahmetsiz hale getiriyor.
+ Kutudan çalışmaya hazır biçimde çıkan eklentiyi kullanmak için sadece CSS sınıf adını (class) bir fa- ön ekiyle yazmanız yeterlidir.
+ Hemen akabinde beliren açılır menü sayesinde istediğiniz ikonları nokta atışı olarak seçebilirsiniz.
+
+
+6-Error Lens:Error Lens, herhangi bir şeyin üzerine gelmenize veya tıklamanıza gerek kalmadan kodunuz doğrultusunda hata, uyarı ve teşhis mesajlarını görmenizi sağlayan bir eklentidir!
+ Ayrıca hataları, uyarıları ve diğer mesajları daha iyi görselleştirmenize ve aralarında ayrım yapmanıza yardımcı olmak için çizgiyi farklı renklerle vurgular!
+
+
+7-HTML Boilerplate:HTML Boilerplate eklentisi, yeni bir HTML belgesinin <head> ve <body> etiketlerinin manuel olarak yazılmasına gerek kalmadan sizi kurtaracak .
+ Boş bir HTML açıp, Sekme tuşuna basarak, temiz bir belge yapısı oluştabilirsiniz.
+
+
+8-HTML CSS Support:HTML CSS Support, Html ve CSS iş akışını büyük ölçüde geliştiren, biz web geliştiricilerinin sıklıkla kullandığı, kodları daha hızlı yazıp zamandan tasarruf etmek için tercih ettiğimiz bir eklentidir.
+ CSS dosyaları içinde tanımladığımız sınıfları, Html dosyası içinde yakalamamıza yardımcı olur ve yapılabilecek pek çok hatanın önüne geçen bir Extension’dır.
+
+
+9-Auto Close Tag:Bir HTML etiketi yazdığınızda otomatik olarak kapanış etiketini ekler.
+
+
+10-HTML to CSS autocompletion:CSS dosyalarında HTML etiketlerine otomatik tamamlama önermeleri sunar.
